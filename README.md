@@ -66,8 +66,8 @@ I enjoy building real-world applications and continuously improving my DSA and s
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *Add your LinkedIn link here*
-- 📧 Email: *Add your professional email*
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-badlani574/
+- 📧 Email: nehabadlani8@gmail.com
 - 🌐 GitHub: https://github.com/nehabadlani345
 
 ---
