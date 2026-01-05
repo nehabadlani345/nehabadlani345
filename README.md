@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Neha Badlani</h1>
 <h3 align="center">Aspiring Java Developer | Backend Enthusiast</h3>
 
-<img align="right" alt="coding" width="350"
+<img align="right" alt="coding" width="300" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left">
 Final-year BTech student focused on <b>Java backend development</b>, 
 <b>DSA</b>, and building real-world applications.
 </p>
+
+---
+- My Portpolio **https://nehabadlani345.github.io/Portfolio/**
+
+- 📫 How to reach me **nehabadlani8@gmail.com**
 
 ---
 
@@ -22,6 +27,10 @@ Final-year BTech student focused on <b>Java backend development</b>,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  
 </p>
 
 ---
