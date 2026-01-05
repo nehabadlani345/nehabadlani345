@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Java Developer | Backend Enthusiast**
 
-I am a final-year BTech student passionate about **Java backend development** and **problem solving**.  
+I am a final-year BTech student passionate about **Java Full Stack development** and **problem solving**.  
 I enjoy building real-world applications and continuously improving my DSA and system design skills.
 
 ---
