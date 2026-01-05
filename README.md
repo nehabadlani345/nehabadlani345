@@ -35,16 +35,6 @@ Final-year BTech student focused on <b>Java backend development</b>,
 
 ---
 
-<h3 align="left">📂 Featured Projects</h3>
-
-<ul>
-  <li><b>Java DSA Practice</b> – Core DSA problems using Java</li>
-  <li><b>Job Application Tracker</b> – Spring Boot REST API with MySQL</li>
-  <li><b>E-Commerce Order Management</b> – Java backend with CRUD & DB relations</li>
-</ul>
-
----
-
 <h3 align="left">📫 Connect with me</h3>
 
 <p align="left">
@@ -58,8 +48,3 @@ Final-year BTech student focused on <b>Java backend development</b>,
 </a>
 </p>
 
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub!
-</p>
