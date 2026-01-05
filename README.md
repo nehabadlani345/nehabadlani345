@@ -1,90 +1,56 @@
-# Hi 👋 I'm Neha Badlani
+<h1 align="center">Hi 👋, I'm Neha Badlani</h1>
+<h3 align="center">Aspiring Java Developer | Backend Enthusiast</h3>
 
-🎯 **Aspiring Java Developer | Backend Enthusiast**
+<img align="right" alt="coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am a final-year BTech student passionate about **Java Full Stack development** and **problem solving**.  
-I enjoy building real-world applications and continuously improving my DSA and system design skills.
-
----
-
-## 🚀 Career Focus
-- Java Developer
-- Backend Development
-- REST APIs
-- Spring Boot (Learning)
+<p align="left">
+Final-year BTech student focused on <b>Java backend development</b>, 
+<b>DSA</b>, and building real-world applications.
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-### 💻 Programming
-- Java
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-
-### 🌐 Frontend
-- HTML
-- CSS
-- JavaScript
-
-### ⚙️ Backend & Tools
-- Spring Boot (Beginner)
-- REST APIs
-- MySQL
-- JDBC
-- Hibernate (Basics)
-- Git & GitHub
-- Postman
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+<h3 align="left">📂 Featured Projects</h3>
 
-### 🔹 Java DSA Practice
-- Solved DSA problems using Java
-- Focus on arrays, strings, recursion, searching & sorting
-- Improved problem-solving and logical thinking
-
-### 🔹 Job Application Tracker (Spring Boot)
-- REST API-based backend project
-- Track job applications with status updates
-- Used Java, Spring Boot, MySQL, and JPA
-
-### 🔹 E-Commerce Order Management System
-- Backend system for managing products and orders
-- Implemented CRUD operations and database relationships
-- Built using Java, Spring Boot, and MySQL
+<ul>
+  <li><b>Java DSA Practice</b> – Core DSA problems using Java</li>
+  <li><b>Job Application Tracker</b> – Spring Boot REST API with MySQL</li>
+  <li><b>E-Commerce Order Management</b> – Java backend with CRUD & DB relations</li>
+</ul>
 
 ---
 
-## 📈 What I Am Currently Learning
-- Advanced Java concepts
-- Spring Boot & REST API best practices
-- Database optimization
-- Backend architecture
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/neha-badlani574/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  height="30" width="40"/>
+</a>
+<a href="nehabadlani8@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+  height="30" width="40"/>
+</a>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/neha-badlani574/
-- 📧 Email: nehabadlani8@gmail.com
-- 🌐 GitHub: https://github.com/nehabadlani345
-
----
-
-⭐ *Thank you for visiting my GitHub profile!*
-
-<!--
-**nehabadlani345/nehabadlani345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐ Thanks for visiting my GitHub!
+</p>
